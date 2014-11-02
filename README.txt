@@ -1,3 +1,8 @@
+###
+This is a copy of the CSParse library without the /MATLAB and Matrix/
+folders.
+###
+
 CSparse: a Concise Sparse Matrix package.
 VERSION 3.1.3, Copyright (c) 2006-2014, Timothy A. Davis, Mar 26, 2014
 http://www.suitesparse.com
